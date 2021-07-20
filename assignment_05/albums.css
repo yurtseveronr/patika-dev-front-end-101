@@ -1,0 +1,19 @@
+* {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.header {
+    color : red
+ }
+
+ .album-list {
+     list-style-type: none;
+ }
+
+ .album-list  img {
+        width: 200px;
+        height: 200px;
+ }
+
+ 
