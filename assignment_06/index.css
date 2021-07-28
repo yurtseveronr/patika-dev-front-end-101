@@ -1,0 +1,110 @@
+body {
+    margin : 0;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px ;
+    margin-top:10px;
+    }
+
+li {
+    display: inline;
+}
+
+li .btn-sign-in{
+    background-color:darkcyan;
+}
+
+.logo {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.btn-search {
+    border-radius: 10%;
+}
+
+.search {
+    position: relative;
+    text-align: center;
+}
+
+.text-area {
+    margin-top: 40px;
+    width: 500px;
+    height: 50px;
+    border-radius: 25px;
+    border-style:solid;
+}
+
+.buttons {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.btn-search {
+    border: 1px solid #f2f2f2;
+    padding: 9px 15px;
+    color: #5f6368;
+    font-size: 14px;
+    border-radius: 4px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 20px;
+    height: 36px;
+}
+
+
+.btn-feel-lucky {
+    border: 1px solid #f2f2f2;
+    padding: 9px 15px;
+    color: #5f6368;
+    font-size: 14px;
+    border-radius: 4px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 20px;
+    height: 36px;
+}
+
+.glass-icon {
+   
+    position: absolute;
+    width: 20px;
+    left : 520px;
+    padding-top: 55px;
+
+}
+
+.microphone-icon {
+    position: absolute;
+    width: 20px;
+    left : 980px;
+    padding-top: 50px;
+}
+
+footer {
+    background-color: gray;
+    width: 100%;
+    height: 50px;
+    margin-top: 270px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+
+.footer-1 {
+    display: inline-block;
+    padding: 15px;
+}
+
+.footer-2 {
+    display: inline-block;
+    padding: 15px;
+    float:right;
+}
