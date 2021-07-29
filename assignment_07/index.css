@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    color: brown;
+    text-shadow: brown;
+}
+
+.greeting {
+    text-align: center;
+    color: darkgreen;
+}
+
+body {
+    background-color:lightgray;
+    font-style: italic;
+}
+
+#name {
+    text-align: center;
+}
+
+#date {
+    text-align: center;
+}
